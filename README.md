@@ -17,4 +17,4 @@ Python (pandas, matplotlib), Tableau Public, GitHub
 - Tableau dashboard:[https://public.tableau.com/views/hdb_resale_tableau/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Author
-Your Name — [www.linkedin.com/in/geethan-balachandran]
+[www.linkedin.com/in/geethan-balachandran]
