@@ -14,7 +14,7 @@ Python (pandas, matplotlib), Tableau Public, GitHub
 - `hdb_resale_cleaned.csv` — cleaned data
 - `01_hdb_analysis.ipynb` — analysis notebook
 - `visuals/` — charts & dashboard screenshots
-- Tableau dashboard: [https://public.tableau.com/app/profile/geethan.balachandran/viz/hdb_resale_tableau/Dashboard1?publish=yes]
+- Tableau dashboard:[https://public.tableau.com/views/hdb_resale_tableau/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Author
 Your Name — [www.linkedin.com/in/geethan-balachandran]
