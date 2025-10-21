@@ -11,7 +11,6 @@ Analysis of Singapore HDB resale transactions. This project examines long-term r
 Python (pandas, matplotlib), Tableau Public, GitHub
 
 ## Files
-- `hdb_resale_cleaned.csv` — cleaned data
 - `01_hdb_analysis.ipynb` — analysis notebook
 - `visuals/` — charts & dashboard screenshots
 - Tableau dashboard:[https://public.tableau.com/views/hdb_resale_tableau/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
